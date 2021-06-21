@@ -36,15 +36,16 @@
 
 <hr>
 <br>
-
 ## 📊 My Github Stats
 
   <br/>
+    <a href="https://github.com/rifkhan107/github-readme-stats"><img alt="Mohammed Rifkhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rifkhan107&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/rifkhan107/github-readme-stats"><img alt="Mohammed Rifkhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifkhan107&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifkhan107&show_icons=true&locale=en&layout=compact" alt="rifkhan107" /></p>
-<hr>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifkhan107&show_icons=true&locale=en" alt="rifkhan107" /></p>
-<hr>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifkhan107&" alt="rifkhan107" /></p>
+
+<br/>
+<br/>
+
+<a href="https://github.com/rifkhan107/github-readme-activity-graph"><img alt="Mohammed Rifkhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rifkhan107&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
