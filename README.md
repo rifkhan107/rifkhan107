@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rifkhan107" target="blank"><img src="https://img.shields.io/twitter/follow/rifkhan107?logo=twitter&style=for-the-badge" alt="rifkhan107" /></a> </p>
 
-- 🔭 I’m currently working on **Security Researcher and Bug Bounty Hunter**
+- 🔭 I’m currently working as **Security Researcher and Bug Bounty Hunter**
 
 - 🌱 I’m currently learning **currently learning everything 🤣**
 
