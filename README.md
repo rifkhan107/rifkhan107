@@ -11,7 +11,7 @@
 <hr>
 - 🔭 I’m currently working as **Security Researcher and Bug Bounty Hunter**
 
-- 🌱 I’m currently learning **currently learning everything 🤣**
+- 🌱 I’m **currently learning everything 🤣**
 
 - 👯 I’m looking to collaborate on **Mobile and Web Application Development**
 
