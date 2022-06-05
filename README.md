@@ -9,15 +9,15 @@
 <p align="left"> <a href="https://twitter.com/rifkhan107" target="blank"><img src="https://img.shields.io/twitter/follow/rifkhan107?logo=twitter&style=for-the-badge" alt="rifkhan107" /></a> </p>
 
 <hr>
-- 🔭 I’m currently working as **Security Researcher and Bug Bounty Hunter**
+- 🔭 I’m currently working as **DevOps Engineerr**
 
 - 🌱 I’m **currently learning everything 🤣**
 
-- 👯 I’m looking to collaborate on **Mobile and Web Application Development**
+- 👯 I’m looking to collaborate on **Open source Projects**
 
 - 👨‍💻 All of my projects are available at [rifkhan.me](rifkhan.me)
 
-- 💬 Ask me about **Java,Python,C++, ReactJs, AngularJS, HTML & CSS, JS, TS**
+- 💬 Ask me about **Git, Linux, AWS, Azure, GCP, Docker, Jenkins, Terraform, Python, Ansible, Promethues, Grafana and Kubernetes**
 
 - 📫 How to reach me **rifkhan561@gmail.com**
 
