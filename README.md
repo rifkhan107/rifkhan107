@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Rifkhan</h1>
-<h3 align="center">Undergraduate | DevOps Enthusiast | Cyber Security Researcher</h3>
+<h3 align="center">DevOps Engineer | InfoSec </h3>
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkhan107&label=Profile%20views&color=0e75b6&style=flat" alt="rifkhan107" /> </p>
